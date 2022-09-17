@@ -23,16 +23,21 @@ body {
     float: right;
 }
 
-#navegacao ul {
-    list-style: none;
-}
-
 #navegacao {
     width: 180px;
     float: left;
     padding-top: 20px;
     padding-bottom: 20px;
     background: #d1d1d1;
+}
+
+#navegacao ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+#navegacao li a {
+	text-decoration: none;
 }
 
 #rodape{
