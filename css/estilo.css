@@ -10,3 +10,10 @@ body {
     margin: 0 auto;
     background: #fff;
 }
+
+#marca {
+    height: 100px;
+    background-color: #9E9E9E;
+    text-align: center;
+    line-height: 100px;
+}
