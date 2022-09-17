@@ -19,11 +19,17 @@ body {
 }
 
 #conteudo {
+    border: 1px solid red;
     width: 520px;
     float: right;
 }
 
+#navegacao ul {
+    list-style: none;
+}
+
 #navegacao {
+    border: 1px solid red;
     width: 180px;
     float: left;
     padding-top: 20px;
