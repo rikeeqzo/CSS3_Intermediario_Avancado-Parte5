@@ -34,6 +34,15 @@ body {
     background: #d1d1d1;
 }
 
+#conteudo-secundario h1,
+#conteudo-secundario h2,
+#conteudo-secundario h3,
+#conteudo-secundario p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
 #navegacao {
     width: 180px;
     float: left;
